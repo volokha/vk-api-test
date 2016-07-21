@@ -1,0 +1,15 @@
+c:\users\user\documents\visual studio 2013\Projects\VK_test\VK_test\bin\Debug\VK_test.exe.config
+c:\users\user\documents\visual studio 2013\Projects\VK_test\VK_test\obj\Debug\VK_test.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\VK_test\VK_test\obj\Debug\MainWindow.baml
+c:\users\user\documents\visual studio 2013\Projects\VK_test\VK_test\obj\Debug\MainWindow.g.cs
+c:\users\user\documents\visual studio 2013\Projects\VK_test\VK_test\obj\Debug\App.g.cs
+c:\users\user\documents\visual studio 2013\Projects\VK_test\VK_test\obj\Debug\VK_test_MarkupCompile.cache
+c:\users\user\documents\visual studio 2013\Projects\VK_test\VK_test\obj\Debug\VK_test.g.resources
+c:\users\user\documents\visual studio 2013\Projects\VK_test\VK_test\obj\Debug\VK_test.Properties.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\VK_test\VK_test\obj\Debug\VK_test.csproj.GenerateResource.Cache
+C:\Users\user\documents\visual studio 2013\Projects\VK_test\VK_test\bin\Debug\VK_test.exe
+C:\Users\user\documents\visual studio 2013\Projects\VK_test\VK_test\bin\Debug\VK_test.pdb
+C:\Users\user\documents\visual studio 2013\Projects\VK_test\VK_test\obj\Debug\VK_test.exe
+C:\Users\user\documents\visual studio 2013\Projects\VK_test\VK_test\obj\Debug\VK_test.pdb
+C:\Users\user\documents\visual studio 2013\Projects\VK_test\VK_test\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\documents\visual studio 2013\Projects\VK_test\VK_test\bin\Debug\Newtonsoft.Json.xml
